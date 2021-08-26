@@ -1,5 +1,5 @@
 # ImageRecommendationExploration
-Exploring keras models for image recommenders. Please run the Jupyter notebook for the full working recommender. Any image dataset can be used, just be sure that they are in jpg format, and that the filepath to the images is correct when you run the notebook.
+Exploring pre-trained Keras image models for building an image recommender system. Please run the Jupyter notebook for a full working recommender. Any image dataset can be used, just be sure that they are in jpg format, and that the filepath to the images is correct when you run the notebook.
 
 
 # References
